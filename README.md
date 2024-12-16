@@ -1,5 +1,15 @@
 # OpenCart
 
+## Developer information
+In project development we use [DDEV](https://ddev.readthedocs.io/en/stable/) for local development and testing.
+
+`ddev restart`
+
+`ddev start`
+
+`ddev stop`
+
+
 ## Overview
 
 OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
